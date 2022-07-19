@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=50&fontAlignY=28&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=27&fontAlignY=28&animation=fadeIn)
 
 <br>
 
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=95&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer)
 
 </div>
