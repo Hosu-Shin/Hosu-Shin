@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=50&fontAlignY=28&animation=fadeIn)
+
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=50&fontAlignY=28&animation=fadeIn)
 <h3>⚔ TECH STACK ⚔</h3>
 <h4>🏹 Learning...</h4>
 
