@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3>📚 GitHub Stat ✨</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosu-Shin&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosu-Shin&hide=contribs,prs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
