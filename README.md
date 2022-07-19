@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 <br>
+<br>
 
 <h3>⚔ TECH STACK ⚔</h3>
 <h4>🏹 Learning...</h4>
@@ -43,23 +44,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+
 <h3>📚 GitHub Stat ✨</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosu-Shin&hide=contribs,prs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hosu-Shin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosu-Shin&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <br>
 
-<h3>📜 Most Used Languages 🖊</h3>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosu-Shin&count_bg=%238E73DE&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosu-Shin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosu-Shin&count_bg=%23292929&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer)
 
