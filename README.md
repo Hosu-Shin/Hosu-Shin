@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosu-Shin&count_bg=%23292929&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=95&section=footer)
 
 </div>
 -->
