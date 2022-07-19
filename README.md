@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hosu-Shin/Hosu-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
+
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=50&fontAlignY=28&animation=fadeIn)
 <h3>⚔ TECH STACK ⚔</h3>
@@ -44,10 +44,14 @@ Here are some ideas to get you started:
 <h3>📜 Most Used Languages 🖊</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosu-Shin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 <br>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosu-Shin&count_bg=%23292929&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=95&section=footer)
 
