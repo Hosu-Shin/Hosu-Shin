@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3>✨ PORTFOLIO ✨</h3>
+<a href="https://firefly-lake.notion.site/Home-6a054f2ee85944c59847e6c926e0a308">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+</a>
+
+<br>
+
 <h3>⚔ TECH STACK ⚔</h3>
 <h4>🏹 Learning...</h4>
 
