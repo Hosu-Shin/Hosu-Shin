@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=95&section=footer)
 
 </div>
--->
