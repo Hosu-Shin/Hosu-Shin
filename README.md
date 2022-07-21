@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=27&fontAlignY=28&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,8,12,14,18,19,20,22,24,27,30&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=27&fontAlignY=28&animation=fadeIn)
 
 <br>
 
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosu-Shin&count_bg=%238E73DE&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,8,12,14,18,19,20,22,24,27,30&height=95&section=footer)
 
 </div>
