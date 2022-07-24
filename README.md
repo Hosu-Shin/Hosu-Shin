@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,8,12,14,18,19,20,22,24,27,30&height=200&section=header&text=Hosu's%20World&fontSize=68&fontAlign=27&fontAlignY=28&animation=fadeIn)
