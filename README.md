@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3>✨ PORTFOLIO ✨</h3>
-<a href="https://www.notion.so/firefly-lake/9727bef9b1bb4b10b0a255cb7fd418a2">
+<a href="[https://www.notion.so/firefly-lake/9727bef9b1bb4b10b0a255cb7fd418a2](https://firefly-lake.notion.site/9727bef9b1bb4b10b0a255cb7fd418a2)">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 
